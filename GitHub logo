@@ -1,1 +1,16 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>https://cdn.discordapp.com/attachments/1215240956400635906/1236527743123066921/IMG_0692.jpg?ex=663855b3&is=66370433&hm=6fb756e481960021ad811ad22349f9f560aac128ff47ee95a07a1b0cc2454c78&</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="logo">
+        <a href="https://github.com/yourusername">
+            <img src="logo.png" alt="GitHub Logo">
+        </a>
+    </div>
+</body>
+</html>
